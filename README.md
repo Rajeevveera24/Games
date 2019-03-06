@@ -8,3 +8,5 @@ The program has three games: tic tac toe, catch 22 (based on pacman) and flappy 
 The program explains how to play these games. To play the tic toe game, you have to press numbers from one to nine to fill the respective squares
 
 To run the program, turbo c++ must first be installed, and the egavga.bgi file must be included in the directory where the program file is kept.
+
+PS: For whatever reason, we named the program Lala.cpp back when we first created it, and the name has stuck ever since. There is a full project report also availabe if you are interested in reading more about the program.
